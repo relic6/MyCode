@@ -1,8 +1,7 @@
 package org.relic.code.string;
 
 /**
- * TODO
- * 
+ * TODO：判断字符A在B中的存在次数
  * @author relic
  * @version $Id$
  * @createtime 2013-3-11下午09:22:48
