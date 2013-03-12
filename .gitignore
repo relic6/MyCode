@@ -1,0 +1,14 @@
+###############
+#    folder   #
+###############
+bin
+target
+.settings
+
+###############
+#  fixed file #
+###############
+*.sw?
+.project
+.classpath
+
