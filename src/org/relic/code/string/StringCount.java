@@ -8,7 +8,7 @@ package org.relic.code.string;
  */
 public class StringCount {
 	public static void main(String[] args) {
-		String s1 = "acdesfafafdsfdafer";
+		String s1 = "acdesfafafdsfdafe";
 		String s2 = "af";
 		String result = getstr(s1, s2);
 		int count = 0;
