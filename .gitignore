@@ -12,4 +12,10 @@ target/
 *.sw?
 .project
 .classpath
+*.class
 
+################
+# Package Files#
+################
+*.war
+*.ear
